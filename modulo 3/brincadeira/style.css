@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+:root {
+    --corpreta: #0D0D0D;
+    --corcinza: #3B3C40;
+    --coroffwhite: #F2E2C4;
+    --cordepele: #F2CA99;
+    --cormarrom: #A67A46;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
